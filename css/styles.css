@@ -1,0 +1,23 @@
+#getDino {
+    font-size:20px;
+    padding:20px;
+    border-radius:15px;
+}
+
+#getDino:hover {
+  background-color:white;
+  transition: 1s;
+  color:green;
+  font-size:160px;
+  -webkit-transition-timing-function: ease-in-out;
+}
+
+body {
+  text-align:center;
+  margin-top:200px;
+}
+
+li {
+  list-style:none;
+  font-size:30px;
+}

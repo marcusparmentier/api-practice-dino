@@ -1,0 +1,24 @@
+{
+  "name": "dino-ipsum",
+  "description": "",
+  "main": "gulpfile.js",
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7",
+    "materialize": "^0.100.2"
+  },
+  "authors": [
+    "Marcus Parmentier <marcusjparmentier@gmail.com>"
+    "John Murray <heartfeats@gmail.com>"
+    "Isaac Niamatali <aniamatali@icloud.com>"
+  ]
+}
